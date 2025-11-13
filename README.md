@@ -1,4 +1,4 @@
-# 🧠 Workly — Public Edition
+# Workly — Public Edition
 
 <div align="center">
 
