@@ -285,6 +285,7 @@ If you like Workly, please consider:
 
 **Made with ❤️ by [WorklyHQ](https://github.com/WorklyHQ)**
 
-[Website](https://workly.app) • [Steam](https://store.steampowered.com) • [Discord](https://discord.gg) • [Twitter](https://twitter.com)
+[Website](https://workly.xyon.site.elsites.fr) • [Discord](https://discord.gg)
+
 
 </div>
