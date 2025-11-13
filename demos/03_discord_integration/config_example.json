@@ -1,0 +1,7 @@
+{
+    "discord_token": "YOUR_BOT_TOKEN_HERE",
+    "command_prefix": "!workly ",
+    "model_path": "model.gguf",
+    "max_tokens": 256,
+    "use_ai": false
+}
