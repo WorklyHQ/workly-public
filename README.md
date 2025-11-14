@@ -7,10 +7,10 @@
 **Your AI-Powered Virtual Assistant with VRM Avatar**
 
 [![License](https://img.shields.io/badge/License-Proprietary-orange.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA.svg)](https://discord.gg/YOUR_DISCORD)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/3Cpyxg29B4)
 [![Version](https://img.shields.io/badge/Version-0.8.0--alpha-green.svg)](CHANGELOG.md)
 
-• [📚 Documentation](https://github.com/WorklyHQ/workly-docs) • [💬 Discord](https://discord.gg) • [🧪 Demos](demos/README.md)
+• [📚 Documentation](https://github.com/WorklyHQ/workly-docs) • [💬 Discord](https://discord.gg/3Cpyxg29B4) • [🧪 Demos](demos/README.md)
 
 ![Demo GIF](screenshots/main_interface.png)
 
