@@ -203,10 +203,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_
 
 Join our growing community:
 
-- 💬 [Discord Server](https://discord.gg/YOUR_DISCORD) — Chat, support, and updates
-- 🐦 [Twitter/X](https://twitter.com/YOUR_TWITTER) — News and announcements
-- 📧 [Email](mailto:contact@workly.app) — Business inquiries
-- 🎮 [Steam Community](https://steamcommunity.com) — Reviews and discussions
+- 💬 [Discord Server](https://discord.gg/3Cpyxg29B4) — Chat, support, and updates
+- 📧 [Email](mailto:@) — Business inquiries
 
 ---
 
@@ -227,25 +225,31 @@ You may **NOT**:
 - ❌ Create derivative commercial products
 - ❌ Copy into proprietary projects
 
-For licensing inquiries, contact: **contact@workly.app**
+For licensing inquiries, contact: **@**
 
 See [LICENSE](LICENSE) for full terms.
 
 ---
 
-## 🚀 Get Workly Desktop
-
-Ready to experience the full version?
-
 <div align="center">
 
-### [🎮 **Get Workly on Steam** 🎮](https://store.steampowered.com)
+## 🧪 Join the Beta Testing
 
-**Available now for Windows 10/11**
+Want to try Workly Desktop before official release?
 
-![Steam Badge](https://img.shields.io/badge/Steam-Available-blue.svg?style=for-the-badge&logo=steam)
+### [💬 **Join Beta Tests on Discord** 💬](https://discord.gg/3Cpyxg29B4)
+
+**Early access for testers and contributors**
+
+![Discord Badge](https://img.shields.io/badge/Discord-Beta%20Access-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
+
+**Get exclusive access to:**
+- 🎮 Early beta builds
+- 🐛 Direct feedback channel
+- 💡 Influence development priorities
+- 🎁 Beta tester rewards
 
 ---
 
@@ -274,10 +278,7 @@ Ready to experience the full version?
 If you like Workly, please consider:
 
 - ⭐ **Starring this repository**
-- 🎮 **Purchasing on Steam**
 - 💬 **Joining our Discord**
-- 🐦 **Following on Twitter**
-- 📝 **Writing a Steam review**
 
 ---
 
@@ -285,7 +286,7 @@ If you like Workly, please consider:
 
 **Made with ❤️ by [WorklyHQ](https://github.com/WorklyHQ)**
 
-[Website](https://workly.xyon.site.elsites.fr) • [Discord](https://discord.gg)
+[Website](https://workly.xyon.site.elsites.fr) • [Discord](https://discord.gg/3Cpyxg29B4)
 
 
 </div>
