@@ -204,7 +204,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_
 Join our growing community:
 
 - 💬 [Discord Server](https://discord.gg/3Cpyxg29B4) — Chat, support, and updates
-- 📧 [Email](mailto:@) — Business inquiries
+- 📧 [Email](mailto:worklyhq@gmail.com) — Business inquiries
 
 ---
 
@@ -225,7 +225,7 @@ You may **NOT**:
 - ❌ Create derivative commercial products
 - ❌ Copy into proprietary projects
 
-For licensing inquiries, contact: **@**
+For licensing inquiries, contact: **worklyhq@gmail.com**
 
 See [LICENSE](LICENSE) for full terms.
 

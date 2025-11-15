@@ -23,7 +23,7 @@ While the core **Workly Desktop** application is proprietary software, we welcom
 
 ## 📜 Code of Conduct
 
-This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **@**.
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **worklyhq@gmail.com**.
 
 ---
 
@@ -415,7 +415,7 @@ def load_configuration(config_path: str) -> dict:
 
 Have questions about contributing?
 
-- 📧 [Email us](mailto:@)
+- 📧 [Email us](mailto:worklyhq@gmail.com)
 - 📖 [Read the FAQ](docs/FAQ.md)
 
 ---
